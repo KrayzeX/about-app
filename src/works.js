@@ -6,6 +6,7 @@ export default [
         title: 'TEST #1',
         screenshot: test1,
         description: 'Test 1',
-        link: '#'
+        link: '#',
+        stack: ['react', 'redux', 'scss']
     }
 ];

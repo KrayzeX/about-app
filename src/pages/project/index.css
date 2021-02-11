@@ -1,0 +1,23 @@
+.project {
+    padding: 40px;
+    text-align: center;
+}
+
+.project_screenshot {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.project_title {
+    margin: 20px 0;
+}
+
+.project_description {
+    margin: 20px 0;
+}
+
+.project_stack {
+    color: #b3b3b3;
+    font-style: italic;
+    margin: 20px 0;
+}
